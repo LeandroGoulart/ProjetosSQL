@@ -1,0 +1,25 @@
+Esse arquivo tem por princípio listar os principais comandos que são usados com mais frequência , ou do meu ponto de vista : O básico do básico.
+
+
+SGBD - significa Sistema de Gerenciamento de Banco de Dados. É um programa que vamos usar para acessar, guardar, criar e gerenciar os Bancos de Dados, por meio da linguagem
+SQL.
+
+MER - (Modelo Entidade Relacionamento): Modelo que descreve como vai ser o relacionamento de cada tabela dentro do banco de dados.
+Ex: Uma tabela relacionada Contatos se relaciona diretamente a uma entidade chamada Clientes
+
+DER (Diagrama Entidade Relacionamento): Representação visual do banco de dados através de um gráfico
+
+DBA - (Database Administrator): Significa Administrador de Bancos de Dados. 
+
+SCHEMA : Outro nome para banco de dados. É específico para alguns programas.
+
+DDL (Data Definition Language): Linguagem de definição de dados é usada para criar e modificar a estrutura dos objetos armazenados em um banco de dados.
+
+DQL (Data Query Language): Linguagem de consulta de dados são os comandos de consulta aos dados armazenados em um banco de dados.
+
+DML (Data Manipulation Language): Linguagem de Manipulação de Dados é um conjunto de comandos para manipulação dos dados armazenados dentro das tabelas em um banco de dados
+
+DCL (Data Control Language): Linguagem de Controle de Dados é usada para controle de acesso e permissões dos usuários em um banco de dados.
+
+DCL (Data Control Language): Linguagem de Controle de Dados é usada para controle de acesso e
+permissões dos usuários em um banco de dados.
