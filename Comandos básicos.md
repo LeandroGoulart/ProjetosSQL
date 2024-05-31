@@ -1,6 +1,5 @@
 # Comandos Básicos e Dicas
 Nesta seção, apresentamos alguns dos comandos básicos de SQL e dicas úteis para trabalhar com eles.
-____
 
 
 ## Comando ´SELECT´
@@ -66,7 +65,7 @@ LIMIT 10;
 Este exemplo seleciona coluna1 (renomeada para alias1) e coluna2 da tabela onde coluna3 é igual a 'valor', ordena os resultados por coluna1 em ordem ascendente e limita a saída a 10 resultados.
 
 
-
+____
 ## Exemplo de ´INSERT´
 
 O comando INSERT é usado para adicionar novos dados a uma tabela. Aqui está um exemplo de como usar o comando INSERT:
@@ -102,7 +101,7 @@ Neste caso, cada conjunto de valores entre parênteses representa um novo regist
 Lembre-se sempre de substituir 'tabela', 'coluna1', 'coluna2', 'coluna3', 'valor1', 'valor2', 'valor3', etc., pelos nomes reais da sua tabela e das colunas, bem como pelos valores que você deseja inserir.
 
 
-
+____
 ## Exemplo de `UPDATE`
 
 O comando UPDATE é usado para atualizar dados existentes em uma tabela. Aqui está um exemplo de como usar o comando UPDATE:
@@ -124,7 +123,7 @@ Neste exemplo, estamos atualizando o salário do funcionário com o nome 'João'
 Lembre-se sempre de substituir 'tabela', 'coluna1', 'novo_valor', 'condição', etc., pelos nomes reais da sua tabela e das colunas, bem como pelos valores que você deseja atualizar.
 
 
-
+____
 ## Exemplo de DELETE
 
 O comando DELETE é usado para excluir dados de uma tabela. Aqui está um exemplo de como usar o comando DELETE:
@@ -146,7 +145,7 @@ Neste exemplo, estamos excluindo o registro do funcionário com o nome 'João' d
 Lembre-se sempre de substituir 'tabela', 'condição', etc., pelos nomes reais da sua tabela e pelas condições específicas que você deseja usar para excluir os registros.
 
 
-
+____
 ## Exemplo de CREATE TABLE
 
 O comando CREATE TABLE é usado para criar uma nova tabela. Aqui está um exemplo de como usar o comando CREATE TABLE:
@@ -160,7 +159,7 @@ CREATE TABLE tabela (
 );
 ```
 
-### Exemplo Completo
+### Exemplo 
 
 Aqui está um exemplo completo de como usar o comando CREATE TABLE:
 
@@ -178,7 +177,7 @@ Neste exemplo, estamos criando uma nova tabela chamada 'funcionarios' com as col
 Lembre-se sempre de substituir 'tabela', 'coluna1', 'coluna2', etc., pelos nomes reais da sua tabela e das colunas, bem como pelos tipos de dados que você deseja usar para cada coluna.
 
 
-
+____
 ## Exemplo de DROP TABLE
 O comando DROP TABLE é usado para excluir uma tabela existente. Aqui está um exemplo de como usar o comando DROP TABLE:
 Para excluir uma tabela existente, você pode usar o seguinte comando:
